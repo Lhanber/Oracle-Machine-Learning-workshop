@@ -23,13 +23,17 @@ Table CUSTOMERS360 created.
 
 2. GLM Model Settings table
 
+此張table內的資料為設定演算法參數的值，如需設定其他演算法參數，請參考以下Oracle官方連結:
+
+https://docs.oracle.com/database/121/ARPLS/d_dmtran.htm#ARPLS191
+
 ```
 %sql
 CREATE TABLE glmr_sh_sample_settings (
   setting_name  VARCHAR2(30),
   setting_value VARCHAR2(4000));
 ```
-此張table內的資料為設定演算法參數的值
+
 
 3. 設定Automated Data Preparation and GLM Model Feature Selection
 
