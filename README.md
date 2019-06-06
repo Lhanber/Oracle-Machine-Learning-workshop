@@ -35,5 +35,3 @@
 參考資料:
 
 [1]https://ithelp.ithome.com.tw/articles/10197029
-
-21321321321321
