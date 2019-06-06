@@ -1,5 +1,5 @@
 ## Oracle-Machine-Learning-workshop
-# Why Query ML?
+## Why Query ML?
 
 用SQL就可以建立和執行ML Model,並且做出預測,讓SQL使用者可以用現有工具加速開發，不用搬移資料，不用費時建立TensorFlow及學習新語言如R、Python etc..，讓Machine Learning普及化。
 
